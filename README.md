@@ -1,5 +1,12 @@
 # fairCorrect
 Fairness correction through parametrised resampling
+
+## How it Works
+
+* XAI Paper: kddSubmission.pdf
+* Recent Slides: Turing.pdf
+* Poster: Poster_CVGZ_PhD_October.pdf
+
 ## Data
 All the necessary to run these scripts are available in the Datasets folder
 
